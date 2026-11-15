@@ -74,6 +74,7 @@ See Tailscale's [official list of integrations](https://tailscale.com/integratio
 - [eastlondoner/tailscale-ssl-proxy](https://github.com/eastlondoner/tailscale-ssl-proxy): Simple zero-config SSL reverse proxy for Tailscale users (LetsEncrypt certs).
 - [tailscale-network-topology-mapper](https://github.com/SimplyMinimal/tailscale-network-topology-mapper): A visual way to view your ACL rules for Tailscale.
 - [tailscale/tmemes](https://github.com/tailscale/tmemes): A meme generator for your tailnet!
+- [Ziqi/starhub-kit](https://github.com/Ziqi/starhub-kit): Declarative compiler for Tailscale 4via6 collision-free routing, Tailscale ACLs, AI agent sandbox firewalls, and MCP.
 
 <!-- END CONTENT -->
 
